@@ -1,0 +1,9 @@
+flask
+gunicorn
+edge-tts
+moviepy==1.0.3
+requests
+google-generativeai
+pillow
+google-api-python-client
+google-auth-oauthlib
